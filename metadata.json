@@ -1,0 +1,5 @@
+{
+  "name": "OS GenAI Architect",
+  "description": "Una aplicación impulsada por IA que genera interfaces de sistemas operativos funcionales en HTML/CSS/JS basándose en descripciones de texto.",
+  "requestFramePermissions": []
+}
